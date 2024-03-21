@@ -1,0 +1,10 @@
+{
+"description": "serverless wordpress",
+	"scripts": {
+		"build": "diy-pwa build murdermystery",
+		"preview": "diy-pwa preview murdermystery"
+	},
+	"devDependencies": {
+		"diy-pwa": "latest"
+	}
+}
